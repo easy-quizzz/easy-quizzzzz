@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://959550bd.eq-dev-pages.pages.dev/"
+baseURL = "https://eq-dev-pages.pages.dev/"
 languageCode = "en-us"
 title = "Easy-Quizzz | Tutte le informazioni su quiz di patente, test di concorrenza e test delle forze armate."
 theme = "liva-hugo-master"
